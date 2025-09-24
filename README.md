@@ -1,4 +1,4 @@
-﻿# 🎨 Gemini-AI-Story-Generator-with-Narration
+﻿# 🎨 Gemini-AI-Story-Generator-with-images
 
 A **Streamlit app** that generates and narrates stories from user-uploaded images.  
 Upload 1–10 images, select a storytelling style, and let AI create a connected narrative with audio narration.  
@@ -68,5 +68,6 @@ GITHUB_TOKEN_CHATGPT=your_token_here
 streamlit run app.p
 ```
 #### 6.Now open the URL shown in the terminal (usually http://localhost:8501) in your browser.
+
 
 
